@@ -1,2 +1,2 @@
-# Luxury-Stationery
-An ecommerce website that sells novelty stationery.
+# EsoPro
+A ope-page business website.
