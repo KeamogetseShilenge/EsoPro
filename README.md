@@ -1,2 +1,2 @@
 # EsoPro
-A ope-page business website.
+A one-page business website.
